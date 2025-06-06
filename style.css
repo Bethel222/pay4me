@@ -1,0 +1,135 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.navbarcont{
+    Display: flex;
+    width: 50%;
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    flex-wrap: wrap;
+}
+
+.listnav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-weight: bolder;
+   
+}
+
+.thirdnav ul{
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+
+.but button{
+    width: 100px;
+    height: 40px;
+    background-color: greenyellow;
+    border-radius: 20px;
+}
+
+.secondnavbar{
+    align-items: center;
+    margin: 50px;
+
+}
+
+.writeup{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.writeup button{
+    width: 100px;
+    height: 30px;
+    background-color: greenyellow;
+    border: none;
+    border-radius: 20px;
+}
+
+.secondwriteup{
+    text-align: center;
+    margin: 10px;
+}
+
+.ptext{
+    text-align: center;
+    margin: 20px;
+}
+
+.fifthbutton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.download{
+    width: 150px;
+    height: 40px;
+    background-color: greenyellow;
+    border-radius: 20px;
+    border: none;
+    font-weight: 700;
+}
+
+.dem{
+    width: 100px;
+    height: 40px;
+    background-color: gainsboro;
+    font-weight: 700;
+    border-radius: 20px;
+    border: none;
+}
+
+.sixthtext{
+    text-align: center;
+    margin: 20px;
+}
+
+.img{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.secondimg{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.lastbarnav{
+    border-radius: 10px;
+    align-items: center;
+    justify-content: space-between;
+     width: 100%;
+    height: auto;
+    flex-wrap: wrap;
+    background-color: greenyellow;
+
+}
+
+
+.classcontainer{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+
+
